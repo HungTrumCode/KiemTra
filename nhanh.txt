@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file nhanh cua branch nhanh thooi
+=======
+file nhanh cua main va branch nhanh 
+>>>>>>> main
